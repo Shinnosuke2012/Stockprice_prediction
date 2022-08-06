@@ -43,3 +43,4 @@ MAPE:  2.47092105785729
 
 ## 参考文献
 https://kino-code.com/python-stock-price/#i-9
+https://www.projectpro.io/article/stock-price-prediction-using-machine-learning-project/571
